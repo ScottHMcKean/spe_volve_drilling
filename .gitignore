@@ -1,5 +1,8 @@
 # Data and Outputs
 data/
+raw/
+refined/
+produced/
 outputs/
 
 # Byte-compiled / optimized / DLL files
